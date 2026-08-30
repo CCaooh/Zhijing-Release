@@ -1,0 +1,21 @@
+{
+    "schema":  2,
+    "product":  "zhijing",
+    "version":  "1.0.0",
+    "published_at":  "2026-08-30T10:26:06Z",
+    "title":  "织境 1.0.0",
+    "notes":  "首次公开发布。\n- 支持多显示器与高 DPI 截图。\n- 支持矢量标注、长截图、钉图和历史二次编辑。\n- 支持本地及网络 OCR、翻译。\n- 支持 MP4/GIF 区域与窗口录制。",
+    "mandatory":  false,
+    "release_page_url":  "https://github.com/CCaooh/Zhijing-Release/releases/tag/v1.0.0",
+    "package":  {
+                    "url":  "https://github.com/CCaooh/Zhijing-Release/releases/download/v1.0.0/zhijing-1.0.0-windows-x64.zip",
+                    "file_name":  "zhijing-1.0.0-windows-x64.zip",
+                    "size":  359748336,
+                    "sha256":  "3e10347b17b4327aae56026e71d93a2769e7140bcedbfeb07f17b5643fc1bf31"
+                },
+    "signature":  {
+                      "algorithm":  "ECDSA_P256_SHA256",
+                      "key_id":  "zhijing-update-ed2b4baafbb8f948",
+                      "value":  "TorORRFyaTTpNVbohnp+EtRP34UqcQHlqa8BrRvUMCRO2z/H31u2RNJTpr2WbDapG00U177LVfeZWCjRoK/y1Q=="
+                  }
+}
